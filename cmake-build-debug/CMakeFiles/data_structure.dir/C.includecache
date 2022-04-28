@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/admin/workspaces/clanguage/data-structure/src/header/distribution/func.h
+../pub/public.h
+/home/user/admin/workspaces/clanguage/data-structure/src/header/pub/public.h
+
+/home/user/admin/workspaces/clanguage/data-structure/src/header/pub/public.h
+stdio.h
+-
+malloc.h
+-
+
+/home/user/admin/workspaces/clanguage/data-structure/src/main/SingleLink/SingleLinkedDemo3.c
+../../header/distribution/func.h
+/home/user/admin/workspaces/clanguage/data-structure/src/header/distribution/func.h
+
